@@ -34,14 +34,7 @@ Welcome to the repository for my **main homepage** – a sleek, responsive, and 
 
 ---
 
-## 📸 Preview
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/61981f65-f2f3-4fbf-a52b-019fc8ccb1a4)
-" alt="Homepage Screenshot" width="75%" />
-</p>
-
----
 
 ## 📬 Let's Connect
 
