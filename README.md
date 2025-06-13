@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/91c96d82-9b13-41ee-8153-52d15671e9b1)<h1 align="center">🌟 Welcome to My Digital Space 🌟</h1>
+<h1>🌟 Welcome to My Digital Space 🌟</h1>
 
 <p align="center">
   🚀 Personal Portfolio • 🌐 Built with Passion • 📍 O
